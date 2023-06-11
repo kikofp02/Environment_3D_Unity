@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2615426625611036592
 Transform:
@@ -41,6 +41,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2615426625611036592}
     m_Modifications:
+    - target: {fileID: 2710741475208034912, guid: 4057bee9e1d233d418ab7e409331b7f7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3525398046622991969, guid: 4057bee9e1d233d418ab7e409331b7f7,
         type: 3}
       propertyPath: m_RootOrder
@@ -111,6 +116,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PF_Beam (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8566583820909042550, guid: 4057bee9e1d233d418ab7e409331b7f7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4057bee9e1d233d418ab7e409331b7f7, type: 3}
 --- !u!4 &3418764208579285791 stripped
@@ -126,6 +136,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2615426625611036592}
     m_Modifications:
+    - target: {fileID: 2710741475208034912, guid: 4057bee9e1d233d418ab7e409331b7f7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3525398046622991969, guid: 4057bee9e1d233d418ab7e409331b7f7,
         type: 3}
       propertyPath: m_RootOrder
@@ -195,6 +210,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PF_Beam
+      objectReference: {fileID: 0}
+    - target: {fileID: 8566583820909042550, guid: 4057bee9e1d233d418ab7e409331b7f7,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4057bee9e1d233d418ab7e409331b7f7, type: 3}
@@ -280,6 +300,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PF_Floor
+      objectReference: {fileID: 0}
+    - target: {fileID: 3293100768217085466, guid: afb4e25ed72d16040a47635f987eefcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5125104474476664563, guid: afb4e25ed72d16040a47635f987eefcc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: afb4e25ed72d16040a47635f987eefcc, type: 3}

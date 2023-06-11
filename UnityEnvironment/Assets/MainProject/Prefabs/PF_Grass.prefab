@@ -156,6 +156,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Grass
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7a36ce1793362224481dc2438f38a389,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6764114687362748833, guid: 7a36ce1793362224481dc2438f38a389,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a36ce1793362224481dc2438f38a389, type: 3}
 --- !u!4 &5542745287265919525 stripped

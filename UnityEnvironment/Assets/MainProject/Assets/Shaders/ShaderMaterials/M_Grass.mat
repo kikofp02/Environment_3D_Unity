@@ -121,8 +121,8 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 5
     - _Surface: 1
-    - _Wind_Density: 0.03
-    - _Wind_Strenght: 0.6
+    - _Wind_Density: 0.06
+    - _Wind_Strenght: 0.8
     - _WorkflowMode: 1
     - _ZWrite: 0
     m_Colors:
